@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="mb"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-09-27 12:27:57 "/>
+        <attribute name="created" value="bWI7TUItUEM7MjAyMC0wOS0yNjsiMTE6NTM6MDEgIjsxNzI5"/>
+        <attribute name="edited" value="bWI7TUItUEM7MjAyMC0wOS0yNzsiMTI6Mjc6NTcgIjsxOzE4NTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="despertei, levantei, escovei, tomei, caf&#233;, fui, trabalhar" type="String" array="False" size=""/>
+            <input variable="Despertei"/>
+            <input variable="Levantei"/>
+            <input variable="Escovei"/>
+            <input variable="tomei"/>
+            <input variable="fui"/>
+            <input variable="trabalhar"/>
+        </body>
+    </function>
+</flowgorithm>
