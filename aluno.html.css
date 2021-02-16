@@ -1,0 +1,39 @@
+﻿  <!DOCTYPE html>
+    <html> lang ="pt-br">
+        <head>
+           <meta charset="utf-8">
+           <title>"Minha pagina"</title>
+        </head>
+
+        <body>
+            <nav> 
+                <p>Minha pagina</p>
+                <ul>
+                    <li>
+                      <a href="servicos"><SERVICOS</a>
+                    </li>
+                    <li>
+                      <a href="alunos">ALUNOS</a>
+                    </li>
+                    <li>
+                      <a href="professores">PROFESSORES</a>
+                    </li>                  
+                    <li>
+                      <a href="# TIME"</a>
+                    </li>
+                </ul>
+                
+        <header>
+                <h1>Minha pagina</h1>
+                <p>
+                  Oferecemos os melhores servicos e educacao de qualidade.
+                </p>
+        </header>
+        <selection id="servicos">
+                 <h2> SERVICOS</h2>
+                 <P>
+                 Nossos Alunos ficararão muito satisfeitos.
+            </body>
+        </header>
+        </footer>
+    </html>
