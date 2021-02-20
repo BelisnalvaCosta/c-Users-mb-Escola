@@ -1,39 +1,67 @@
-﻿  <!DOCTYPE html>
-    <html> lang ="pt-br">
+<?php
+  <!DOCTYPE html>
+    <html> 
         <head>
            <meta charset="utf-8">
-           <title>"Minha pagina"</title>
+           <title>"Minha página"</title>
         </head>
 
         <body>
             <nav> 
-                <p>Minha pagina</p>
+                <p>Minha página</p>
                 <ul>
                     <li>
-                      <a href="servicos"><SERVICOS</a>
+                      <a href="# servicos">SERVICOS</a>
                     </li>
                     <li>
-                      <a href="alunos">ALUNOS</a>
+                      <a href="# alunos">ALUNOS</a>
                     </li>
                     <li>
-                      <a href="professores">PROFESSORES</a>
+                      <a href="# professores">PROFESSORES</a>
                     </li>                  
                     <li>
-                      <a href="# TIME"</a>
+                      <a href="# time">TIME</a>
+                    </li>
+                    <li>
+                      <a href="# contato">CONTATO</a> 
                     </li>
                 </ul>
-                
+            </nav>
+
         <header>
                 <h1>Minha pagina</h1>
-                <p>
-                  Oferecemos os melhores servicos e educacao de qualidade.
-                </p>
+                <p>Oferecemos os melhores servicos e educacao de qualidade</p>
         </header>
-        <selection id="servicos">
-                 <h2> SERVICOS</h2>
-                 <P>
-                 Nossos Alunos ficararão muito satisfeitos.
-            </body>
-        </header>
+
+        <section id="servicos">
+                 <h2>SERVICOS</h2>
+                 <P>Nossos Alunos ficararão muito satisfeitos.</p>
+                 <div>
+                  <img src=" " widht="300px">
+                  <img src=" " width="300px">
+                 </div>
+        </section>
+
+        <section id="alunos">
+                 <h2>ALUNOS</h2>
+                 <P>Nossos Alunos ficararão muito satisfeitos com os nossos materias didaticos.</p>
+                 <div>
+                  <img src="img/aluno1.jpg" widht="300px">
+                  <img src="img/alunos2.jpg" width="300px">
+                 </div>
+        </section>
+
+        <section id="professores e colaboradores">
+                 <h2>PROFESSORES e COLABORADORES</h2>
+                 <P>Nossos Professores e Colaboradores nos ajudam a ter um servico de qualidade e excelência.</p>
+                 <div>
+                  <a href="https://digitalinnovation.one/" target="blank">
+                  <img src="img/digital_innovation.one.png" width="130px">
+                 </div>
+        </section>
+
+        </body>
+        <footer>
+                  <p>Desenvolvido por BelisnalvaC</p>
         </footer>
     </html>
